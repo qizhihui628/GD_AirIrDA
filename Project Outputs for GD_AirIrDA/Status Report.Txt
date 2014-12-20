@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [GD_AirIrDA.PrjPcb]
+   Generated File[GD_AirIrDA.TXT]
+   Generated File[GD_AirIrDA.LDP]
+   Generated File[GD_AirIrDA.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 10:04:53 On 2014/12/20

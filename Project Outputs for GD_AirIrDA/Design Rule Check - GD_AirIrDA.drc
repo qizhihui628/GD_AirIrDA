@@ -1,0 +1,71 @@
+Protel Design System Design Rule Check
+PCB File : C:\Users\jeqi\Documents\GD_AirIrDA\GD_AirIrDA.PcbDoc
+Date     : 2014/12/20
+Time     : 9:54:47
+
+Processing Rule : Clearance Constraint (Gap=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Rule
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mil) (All)
+Rule Violations :0
+
+Processing Rule : Silk primitive without silk layer
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=1mil) (Disabled)(All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=10mil) (Disabled)(IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=10mil) (All),(All)
+   Violation between Pad U1-48(2627.732mil,2890.417mil)  Top Layer and 
+                     Pad U1-1(2574.583mil,2837.268mil)  Top Layer
+   Violation between Pad U1-13(2627.732mil,2567.583mil)  Top Layer and 
+                     Pad U1-12(2574.583mil,2620.732mil)  Top Layer
+   Violation between Pad U1-25(2897.417mil,2620.732mil)  Top Layer and 
+                     Pad U1-24(2844.268mil,2567.583mil)  Top Layer
+   Violation between Pad U1-37(2844.268mil,2890.417mil)  Top Layer and 
+                     Pad U1-36(2897.417mil,2837.268mil)  Top Layer
+   Violation between Pad R10-2(2482.535mil,2995mil)  Top Layer and 
+                     Pad R8-1(2482.535mil,3061mil)  Top Layer
+   Violation between Pad R10-1(2549.465mil,2995mil)  Top Layer and 
+                     Pad R8-2(2549.465mil,3061mil)  Top Layer
+   Violation between Pad Y1-1(2405mil,2886mil)  Multi-Layer and 
+                     Pad Y1-2(2405mil,2942mil)  Multi-Layer
+   Violation between Pad C14-2(2174.528mil,2410mil)  Bottom Layer and 
+                     Pad C14-1(2115.472mil,2410mil)  Bottom Layer
+   Violation between Pad C17-2(4049mil,1967.528mil)  Bottom Layer and 
+                     Pad C17-1(4049mil,1908.473mil)  Bottom Layer
+Rule Violations :9
+
+Processing Rule : Hole To Hole Clearance (Gap=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=1mil) (Max=100mil) (All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=8mil) (Max=50mil) (Preferred=15mil) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=10mil) (InPolygon),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+
+Violations Detected : 9
+Time Elapsed        : 00:00:01
